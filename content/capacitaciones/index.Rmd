@@ -1,0 +1,19 @@
+---
+title: "Capacitaciones"
+output: blogdown::html_page
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Cursos con certificación oficiales 
+
+Descripción y enlaces
+
+## Capacitaciones personalizadas
+
+Descripción, enlaces y figuras
+
+## Tutorías 
+
+Descripción, enlaces y figuras

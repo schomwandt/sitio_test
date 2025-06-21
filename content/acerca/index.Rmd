@@ -1,0 +1,9 @@
+---
+title: "Acerca"
+output: blogdown::html_page
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Información

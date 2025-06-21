@@ -1,0 +1,8 @@
+baseURL = "http://localhost:4321/"
+languageCode = "es-es"
+title = "Sitio Personal de David"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

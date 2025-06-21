@@ -1,0 +1,30 @@
+# desafio 3 - trabajando con dataset
+
+url.set <- "https://datahub.io/core/population/r/population.csv"
+poblacion.mundo <- read.csv(url.set)
+
+str(poblacion.mundo)
+sapply(poblacion.mundo, class)
+
+length(poblacion.mundo) # lo mismo que ncol
+ncol(poblacion.mundo)
+nrow(poblacion.mundo)
+colnames(poblacion.mundo)
+rownames(poblacion.mundo)
+
+View(head(poblacion.mundo,20)) # hace lo mismo que hace la opción en environment
+
+
+
+# esto lo consegui de chat gpt xq quería que me muestre datos aleatorios dentro del data frame y no solo por orden alfabético 
+install.packages("dplyr")
+library(dplyr)
+
+poblacion.mundo %>% 
+  slice_sample(n = 20)
+
+
+
+
+
+
