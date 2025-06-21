@@ -17,14 +17,11 @@ Descripción general del sitio, contenido e información general de lo que se ac
 <a href="/capacitaciones/" class="img-link">
   <img src="/images/foto-ejemplo-2.jpg" alt="Ejemplo con HTML" style="width:300px; border:1px solid black; float:left; margin-right:15px;">
 </a>
-  
-  
  <h2>
   <a href="/capacitaciones/" class="img-link-title" style="text-decoration: none; color: inherit;">
     Capacitaciones
-  </a>
+</a>
 </h2>
-  
   <p>Explorá mis publicaciones, ideas y proyectos sobre visualización, ciencia y programación. Hacé clic para saber más.</p>
 </div>
 
