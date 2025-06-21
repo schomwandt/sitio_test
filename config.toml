@@ -1,5 +1,5 @@
-baseURL = "https://github.com/schomwandt/sitio_test"
-languageCode = "es-es"
+baseURL = "https://schomwandt.github.io/sitio_test/"
+publishDir = "docs"
 title = "Sitio Personal de David"
 
 [markup]
