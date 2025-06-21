@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titulo del Sitio Web on Sitio Personal de David</title>
+    <link>https://github.com/schomwandt/sitio_test/</link>
+    <description>Recent content in Titulo del Sitio Web on Sitio Personal de David</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <atom:link href="https://github.com/schomwandt/sitio_test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca</title>
+      <link>https://github.com/schomwandt/sitio_test/acerca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/schomwandt/sitio_test/acerca/</guid>
+      <description>&lt;div id=&#34;información&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Información&lt;/h2&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Capacitaciones</title>
+      <link>https://github.com/schomwandt/sitio_test/capacitaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/schomwandt/sitio_test/capacitaciones/</guid>
+      <description>&lt;div id=&#34;cursos-con-certificación-oficiales&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Cursos con certificación oficiales&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Descripción y enlaces&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div id=&#34;capacitaciones-personalizadas&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Capacitaciones personalizadas&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Descripción, enlaces y figuras&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div id=&#34;tutorías&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Tutorías&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Descripción, enlaces y figuras&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>https://github.com/schomwandt/sitio_test/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/schomwandt/sitio_test/contacto/</guid>
+      <description>&lt;div id=&#34;información-de-contacto&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Información de contacto&lt;/h2&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
